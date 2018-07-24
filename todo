@@ -1,0 +1,13 @@
+Brug ikke all-capital variable names i bash scripts! (det er revserved til environment variables)
+
+Mangler der oversættelse i beydning 2 ved opslag af "nemlig" i DA-EN? Der er formentlig blot et overflødigt 2 tal..
+
+Uheldige konsekvenser ved at give ekstra space omkring () - se f.eks. under "nonsensical" i EN-DA
+
+Se evt.nederst i guiden under "Tests and conditoinals" og overvej om menu kan skrives bedre 
+
+I DA-EN-DA: det Engelske ord "diverse" forekommer under DA-EN opslagsord 
+
+Læg koden i $HOME/bin og tilføj til PATH (se guide).
+
+Fejl i opslag strande
