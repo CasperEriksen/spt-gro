@@ -1,2 +1,5 @@
 # ignore all files in the data/ directory
 data/
+
+# ignore tabterms
+tabterms.txt
